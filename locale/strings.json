@@ -1,0 +1,8 @@
+{
+	"locale": "en_US",
+	"language": "en",
+	"CATEGORY_ECHARTS": "ECharts",
+	"PROP_THEME": "theme define json",
+	"DISP_NAME_CHART2D":"2D Chart",
+	"PROP_OPTION":"option define json"
+}
