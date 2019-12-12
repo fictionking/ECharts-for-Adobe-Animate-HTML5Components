@@ -1,0 +1,8 @@
+{
+  "locale" : "zh_CN",
+  "language" : "cn",
+  "CATEGORY_ECHARTS": "ECharts",
+  "PROP_THEME": "主题定义json",
+  "DISP_NAME_CHART2D":"2D图",
+	"PROP_OPTION":"option定义json"
+}
